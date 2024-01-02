@@ -1,5 +1,7 @@
-Library Management System using MERN Stack
+<h1>Library Management System using MERN Stack</h1>
+<p>
 This project is a Library Management System implemented using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to manage books, borrowers, and transactions within a library setting.
+</p>
 
 Table of Contents
 Features
